@@ -9,5 +9,6 @@ public class Teacher_test {
     {
         Teacher teacher_1 = new Teacher("David","T001");
         Teacher teacher_2 = new Teacher("Charles","T002",500);
+        
     }
 }
