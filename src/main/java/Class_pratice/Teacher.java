@@ -35,8 +35,11 @@ public class Teacher {
 
     public static int getTeacherCount ()
     {
+        System.out.println("This is the test!");
         return teacher_count;
     }
+
+
 
     static {
         System.out.println("This is the static area!");
